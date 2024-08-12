@@ -4,7 +4,7 @@
 
 ## About Me :
 
-I am an advanced student of the University Degree in Programming at UTN in Mar del Plata with experience in C and Java. I focus on efficient problem-solving and constantly seek opportunities to grow in the technology sector, valuing continuous learning.
+I am an advanced student of the University Degree in Programming at UTN in Mar del Plata with experience in C, Java and DataBases. I focus on efficient problem-solving and constantly seek opportunities to grow in the technology sector, valuing continuous learning.
 
 __Check out my GitHub repository:__
 
