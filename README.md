@@ -19,7 +19,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/NicolasPalaciosCalvi/Gestion-de-Supermercado-digital.git">
+    <a href="https://github.com/NicolasPalaciosCalvi/Gestion-de-Supermercado-digital">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPalaciosCalvi&repo=Gestion-de-Supermercado-digital" alt="GitHub Stats" />
     </a>
   </p>
